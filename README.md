@@ -38,32 +38,32 @@ Right click start menu, run "control or go to control panel >programs > turn win
 </p>
 <br />
 
-<p>
+<!-- <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+</p> -->
 <p>
 install PHP Manager for IIS
 </p>
 <br />
 
-<p>
+<!-- <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+</p> -->
 <p>
 Install Rewrite module
 </p>
 <br />
 
-<p>
+<!-- <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+</p> -->
 <p>
 Create directory for PHP on local hard drive
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hAlVUov.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Go back to IIS, sites > Default > osTicket
