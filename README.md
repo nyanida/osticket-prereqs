@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="<blockquote class="imgur-embed-pub" lang="en" data-id="GyXrQdb"><a href="https://imgur.com/GyXrQdb">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/GyXrQdb" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Right click start menu, run "control or go to control panel >programs > turn windows fetures on/off. Select 'Internet Information Services'. Expand "World Wide Web" and "App Developer" and check "CGI". Click OK (installing web server with PHP for osTicket to work)
