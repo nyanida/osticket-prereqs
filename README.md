@@ -226,3 +226,16 @@ You should see tickets page once you're logged in
 </p>
 <br />
 
+
+
+
+
+
+
+<p>
+<img src="https://imgur.com/5FvLuj3" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+You should see tickets page once you're logged in
+</p>
+<br />
